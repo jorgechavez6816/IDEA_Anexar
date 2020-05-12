@@ -1,5 +1,5 @@
 Sub Main
-	Call AppendDatabase()	'Ejemplox-Detalle de ventas.IMD
+	Call AppendDatabase()	'Ejemplo-Detalle de ventas.IMD
 End Sub
 
 
